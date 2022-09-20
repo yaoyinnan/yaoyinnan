@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Yaoyinnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoyinnan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyinnan&exclude_repo=transformers)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyinnan&layout=compact&exclude_repo=transformers,OffensEval,fakenews,clockIn_gzhu,yaoyinnan.github.io)](https://github.com/anuraghazra/github-readme-stats)
